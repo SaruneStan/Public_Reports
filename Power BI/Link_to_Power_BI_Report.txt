@@ -1,0 +1,7 @@
+Hello,
+
+Since GitHub free version allows to upload files up to 100 MB,
+I have placed my analysis of Airline Flight Delays with Power BI 
+in Google Drive. You can access my report with a link below:
+
+https://drive.google.com/file/d/1URljB-75POPU1d4wD7dVEJKh2_WgjXts/view?usp=sharing
